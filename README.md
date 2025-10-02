@@ -1,2 +1,2 @@
-# travelvista
+# travista
 project expo-II yr
